@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelectorAll("button"),n=document.querySelector("#container");e.forEach((e=>{e.addEventListener("click",(()=>{n.innerHTML="";let t=document.createElement("div");t.innerHTML=`<h1>${e.className}</h1>`,n.appendChild(t)}))}))})();
