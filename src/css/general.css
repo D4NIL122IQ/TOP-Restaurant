@@ -1,0 +1,36 @@
+*,
+::after,
+::before {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+header{
+    height: 70px;
+    background-color: #fef6eb;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 50px;
+    width:50px ;
+    margin-left: 10px;
+}
+
+header>nav>button{
+    height: 60px;
+    width: 90px;
+    border: 0px;
+    background-color: transparent;
+    font-size: large;
+}
+
+header>nav>button:hover{
+    text-decoration: underline;
+}
+
