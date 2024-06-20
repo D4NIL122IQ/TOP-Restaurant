@@ -1,4 +1,4 @@
-import './styleForm.css'
+import '../css/styleForm.css'
 function creatFormContact(container){
     let form = document.createElement("form")
     let fullName = document.createElement('input')
