@@ -21,7 +21,7 @@ function creatAbout(div0) {
                     Venez savourer une expérience authentique dans une ambiance accueillante où chaque détail est pensé pour 
                     vous offrir une immersion complète dans la cuisine japonaise.`
     let p3 =document.createElement('p')
-    p0.textContent =`Ne tardez plus et reservez une place au sein de notre reataurant a l'adresse suivente`
+    p3.textContent =`Ne tardez plus et reservez une place au sein de notre reataurant a l'adresse suivente`
     let h2 = document.createElement('h2')
     h2.textContent = `Rue des freres tifaoui, Dawadji, Bejaia, 06000 `
     let h4 = document.createElement('h4')
