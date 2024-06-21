@@ -4,8 +4,6 @@
     background-position: center;
     background-size: cover;
     height: 85vh;
-
-
 }
 .mid{
     height: 85vh;
@@ -18,18 +16,38 @@
     align-items: center;
     gap: 10px;
 }
+.texte{
+  font-size: 1.4em;
+}
 
-hr{
-    height: 300px;
+.hr{
+    height: 350px;
     width: 500px;
     border: 4px solid pink;
-    border-radius: 20px;
+    border-radius: 40px;
     margin-top: 30px;
-    padding: 30px;
+    padding: 10px;
 
-  }
-  .hr>ul>li{
+}
+.hr>ul {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.hr>ul>li{
     margin: 15px 30px;
     text-align:start;
     list-style:square;
+}
+
+@media screen and (max-width: 600px){
+  .texte{
+    font-size: large;
   }
+    .hr{
+      height: 300px;
+      width: 360px;
+      border: 4px solid pink;
+      border-radius: 20px;
+      font-size: medium;
+  }
+}

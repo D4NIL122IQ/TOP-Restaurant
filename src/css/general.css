@@ -5,7 +5,21 @@
   padding: 0px;
   box-sizing: border-box;
 }
+@font-face {
+    font-family: 'musashi';
+    src: url('../fonts/MUSASHI.ttf') format('truetype');
+    font-size: xx-large;
 
+}
+@font-face {
+    font-family: 'samurai';
+    src: url('../fonts/SamuraiBlast.woff') format('truetype');
+}
+  
+body {
+    font-family: 'samurai', sans-serif;
+    font-size: 1.2em;
+}
 
 header{
     height: 70px;
@@ -24,13 +38,31 @@ header{
 
 header>nav>button{
     height: 60px;
-    width: 90px;
+    width: 115px;
     border: 0px;
     background-color: transparent;
-    font-size: large;
+    font-family: 'samurai', sans-serif;
+    font-size: x-large;
 }
 
 header>nav>button:hover{
     text-decoration: underline;
 }
-
+footer{
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #b473bbd9;
+}
+footer>i{
+    height: 30px;
+}
+@media screen and (max-width: 600px){
+    header>nav>button{
+        font-size: smaller;
+        width: 50px;
+        padding-right: 20px;
+    }
+}
