@@ -7,7 +7,7 @@ function creatHomepage(div) {
     let texte = document.createElement('div')
     texte.classList.add('texte')
     let h2 = document.createElement('h2')
-    h2.textContent ='Bienvenu Chez La Grand'
+    h2.textContent ='Bienvenue Chez La Grand'
 
     let h1 =document.createElement('h1')
     h1.style.color = "brown"
@@ -51,6 +51,8 @@ function creatHomepage(div) {
     lis6.textContent = 'Dimanche 12H00 - 23H30'
     liste.appendChild(lis6)
 
+    let divAdrs = document.createElement('div')
+    
     divhr.appendChild(liste)
     mid.appendChild(texte)
     mid.appendChild(divhr)
