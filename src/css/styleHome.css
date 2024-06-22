@@ -1,10 +1,3 @@
-#container{
-    background-image: url(../image/resto.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 85vh;
-}
 .mid{
     height: 85vh;
     padding-top: 50px;
@@ -41,13 +34,13 @@
 
 @media screen and (max-width: 600px){
   .texte{
-    font-size: large;
+    font-size: x-large;
   }
-    .hr{
-      height: 300px;
-      width: 360px;
-      border: 4px solid pink;
-      border-radius: 20px;
-      font-size: medium;
+  .hr{
+    height: 300px;
+    width: 360px;
+    border: 4px solid pink;
+    border-radius: 20px;
+    font-size: medium;
   }
 }

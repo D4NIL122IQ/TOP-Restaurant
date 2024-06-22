@@ -15,6 +15,14 @@
     font-family: 'samurai';
     src: url('../fonts/SamuraiBlast.woff') format('truetype');
 }
+
+#container{
+    background-image: url(../image/resto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+}
   
 body {
     font-family: 'samurai', sans-serif;
@@ -49,12 +57,12 @@ header>nav>button:hover{
     text-decoration: underline;
 }
 footer{
-    height: 5vh;
+    height: 5.4vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #b473bbd9;
+    background-color: #feaeaf;
 }
 footer>i{
     height: 30px;
