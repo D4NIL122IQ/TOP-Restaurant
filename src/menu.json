@@ -1,0 +1,62 @@
+[
+    {
+        "nomPlat": "Edamame",
+        "descriptionPlat": "Fèves de soja légèrement salées, servies dans leur cosse. Une entrée simple et saine.",
+        "imagePlat": "../image/endamne.png"
+    },
+    {
+        "nomPlat": "Tempura de Crevettes",
+        "descriptionPlat": "Crevettes croustillantes enrobées d'une pâte légère, servies avec une sauce tempura maison.",
+        "imagePlat": "../image/Tempura.jpg"
+    },
+    {
+        "nomPlat": "Gyoza",
+        "descriptionPlat": "Raviolis japonais grillés et farcis au porc, accompagnés d'une sauce soja piquante.",
+        "imagePlat": "../image/Gyoza.jpg"
+    },
+    {
+        "nomPlat": "Sushi Assorti",
+        "descriptionPlat": "Sélection de nigiri et maki préparés avec du poisson frais de la journée, servi avec du gingembre mariné et du wasabi.",
+        "imagePlat": "../image/sushiAssorti.jpg"
+    },
+    {
+        "nomPlat": "Sashimi de Thon Rouge",
+        "descriptionPlat": "Tranches de thon rouge ultra-frais, servies avec une sauce soja et du wasabi.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Ramen Tonkotsu",
+        "descriptionPlat": "Bouillon riche et crémeux à base d'os de porc, servi avec des nouilles ramen, des tranches de porc, un œuf mollet, des champignons et des oignons verts.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Unagi Don",
+        "descriptionPlat": "Anguille grillée nappée de sauce teriyaki, servie sur un lit de riz blanc moelleux.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Onigiri",
+        "descriptionPlat": "Boulettes de riz farcies au saumon ou à l'umeboshi (prune salée), enveloppées d'algues nori.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Miso Soup",
+        "descriptionPlat": "Soupe traditionnelle à base de pâte de miso, avec des morceaux de tofu et des algues.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Dorayaki",
+        "descriptionPlat": "Pancakes japonais garnis de pâte de haricots rouges sucrée.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Mochi",
+        "descriptionPlat": "Gâteaux de riz gluant farcis à la pâte de haricots rouges sucrée ou à la crème glacée.",
+        "imagePlat": ""
+    },
+    {
+        "nomPlat": "Matcha Ice Cream",
+        "descriptionPlat": "Crème glacée onctueuse parfumée au thé vert matcha, servie avec un biscuit croquant.",
+        "imagePlat": ""
+    }
+]
