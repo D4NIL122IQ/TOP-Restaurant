@@ -1,8 +1,10 @@
 import {creatFormContact} from './js/contact.js'
 import {creatHomepage} from './js/home.js'
 import { creatAbout } from './js/about.js'
+import { creatMenu } from './js/menu.js'
 import './css/general.css'
 import shLogo from './image/logo.png'
+
 
 
 
@@ -33,6 +35,8 @@ navigationButtons.forEach((btn)=>{
             creatFormContact(container)
         }else if (btn.className == "About"){
             creatAbout(container)
+        }else if(btn.className == "Menu" ){
+            creatMenu(container)
         }
        
     })
