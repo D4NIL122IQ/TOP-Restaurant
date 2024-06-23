@@ -4,7 +4,7 @@ function creatFormContact(container){
     let div = document.createElement('div');
     div.classList.add('containe')
     let form = document.createElement("form")
-    form.setAttribute('method' , 'post')
+
 
     let lab0 = document.createElement('label')
     lab0.setAttribute('for' ,'lastName')

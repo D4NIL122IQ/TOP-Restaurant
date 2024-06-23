@@ -7,14 +7,14 @@ function creatHomepage(div) {
     let texte = document.createElement('div')
     texte.classList.add('texte')
     let h2 = document.createElement('h2')
-    h2.textContent ='Bienvenue Chez La Grand'
+    h2.textContent ='Bienvenue Chez Le Grand'
 
     let h1 =document.createElement('h1')
-    h1.style.color = "brown"
+    h1.style.color = "#BC002D"
     h1.textContent = 'DAWASUSHI'
 
     let para = document.createElement('p')
-    para.textContent = 'restuarant specialicé dans la gastronomie japonaise'
+    para.textContent = 'restuarant spécialisé dans la gastronomie japonaise'
 
     texte.appendChild(h2)
     texte.appendChild(h1)
@@ -50,8 +50,6 @@ function creatHomepage(div) {
     let lis6 = document.createElement('li')
     lis6.textContent = 'Dimanche 12H00 - 23H30'
     liste.appendChild(lis6)
-
-    let divAdrs = document.createElement('div')
     
     divhr.appendChild(liste)
     mid.appendChild(texte)

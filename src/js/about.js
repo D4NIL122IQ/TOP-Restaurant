@@ -28,7 +28,7 @@ function creatAbout(div0) {
     let h2 = document.createElement('h2')
     h2.textContent = `Rue des freres tifaoui, Dawadji, Bejaia, 06000 `
     let h4 = document.createElement('h4')
-    h4.textContent = `DAWASUSHI = dawadji sushi`
+    h4.textContent = `DAWASUSHI = dawadji + sushi`
 
     div2.appendChild(h1)
     div2.appendChild(p0)
