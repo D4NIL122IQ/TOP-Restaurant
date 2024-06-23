@@ -1,33 +1,27 @@
 [
     {
         "nomPlat": "Edamame",
-        "descriptionPlat": "Fèves de soja légèrement salées, servies dans leur cosse. Une entrée simple et saine.",
-        "imagePlat": "../image/endamne.png"
+        "descriptionPlat": "Fèves de soja légèrement salées, servies dans leur cosse. Une entrée simple et saine."
     },
     {
         "nomPlat": "Tempura de Crevettes",
-        "descriptionPlat": "Crevettes croustillantes enrobées d'une pâte légère, servies avec une sauce tempura maison.",
-        "imagePlat": "../image/Tempura.jpg"
+        "descriptionPlat": "Crevettes croustillantes enrobées d'une pâte légère, servies avec une sauce tempura maison."
     },
     {
         "nomPlat": "Gyoza",
-        "descriptionPlat": "Raviolis japonais grillés et farcis au porc, accompagnés d'une sauce soja piquante.",
-        "imagePlat": "../image/Gyoza.jpg"
+        "descriptionPlat": "Raviolis japonais grillés et farcis au porc, accompagnés d'une sauce soja piquante."
     },
     {
         "nomPlat": "Sushi Assorti",
-        "descriptionPlat": "Sélection de nigiri et maki préparés avec du poisson frais de la journée, servi avec du gingembre mariné et du wasabi.",
-        "imagePlat": "../image/sushiAssorti.jpg"
+        "descriptionPlat": "Sélection de nigiri et maki préparés avec du poisson frais de la journée, servi avec du gingembre mariné et du wasabi."
     },
     {
         "nomPlat": "Sashimi de Thon Rouge",
-        "descriptionPlat": "Tranches de thon rouge ultra-frais, servies avec une sauce soja et du wasabi.",
-        "imagePlat": ""
+        "descriptionPlat": "Tranches de thon rouge ultra-frais, servies avec une sauce soja et du wasabi."
     },
     {
         "nomPlat": "Ramen Tonkotsu",
-        "descriptionPlat": "Bouillon riche et crémeux à base d'os de porc, servi avec des nouilles ramen, des tranches de porc, un œuf mollet, des champignons et des oignons verts.",
-        "imagePlat": ""
+        "descriptionPlat": "Bouillon riche et crémeux à base d'os de porc, servi avec des nouilles ramen, des tranches de porc, un œuf mollet, des champignons et des oignons verts."
     },
     {
         "nomPlat": "Unagi Don",
@@ -36,27 +30,22 @@
     },
     {
         "nomPlat": "Onigiri",
-        "descriptionPlat": "Boulettes de riz farcies au saumon ou à l'umeboshi (prune salée), enveloppées d'algues nori.",
-        "imagePlat": ""
+        "descriptionPlat": "Boulettes de riz farcies au saumon ou à l'umeboshi (prune salée), enveloppées d'algues nori."
     },
     {
         "nomPlat": "Miso Soup",
-        "descriptionPlat": "Soupe traditionnelle à base de pâte de miso, avec des morceaux de tofu et des algues.",
-        "imagePlat": ""
+        "descriptionPlat": "Soupe traditionnelle à base de pâte de miso, avec des morceaux de tofu et des algues."
     },
     {
         "nomPlat": "Dorayaki",
-        "descriptionPlat": "Pancakes japonais garnis de pâte de haricots rouges sucrée.",
-        "imagePlat": ""
+        "descriptionPlat": "Pancakes japonais garnis de pâte de haricots rouges sucrée."
     },
     {
         "nomPlat": "Mochi",
-        "descriptionPlat": "Gâteaux de riz gluant farcis à la pâte de haricots rouges sucrée ou à la crème glacée.",
-        "imagePlat": ""
+        "descriptionPlat": "Gâteaux de riz gluant farcis à la pâte de haricots rouges sucrée ou à la crème glacée."
     },
     {
         "nomPlat": "Matcha Ice Cream",
-        "descriptionPlat": "Crème glacée onctueuse parfumée au thé vert matcha, servie avec un biscuit croquant.",
-        "imagePlat": ""
+        "descriptionPlat": "Crème glacée onctueuse parfumée au thé vert matcha, servie avec un biscuit croquant."
     }
 ]
