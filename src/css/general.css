@@ -65,8 +65,15 @@ footer{
     text-align: center;
     background-color: #feaeaf;
 }
-footer>i{
-    height: 30px;
+footer>a{
+    text-decoration: none;
+    color: black;
+}
+footer>a::before{
+    color: WHITE;
+}
+footer>a::after{
+    color: WHITE;
 }
 @media screen and (max-width: 600px){
     header>nav>button{
