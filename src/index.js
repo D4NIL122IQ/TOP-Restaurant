@@ -38,6 +38,5 @@ navigationButtons.forEach((btn)=>{
         }else if(btn.className == "Menu" ){
             creatMenu(container)
         }
-       
     })
 })
