@@ -75,10 +75,13 @@ footer>a::before{
 footer>a::after{
     color: WHITE;
 }
+footer>a:hover{
+    color: #BC002D;
+}
 @media screen and (max-width: 600px){
     header>nav>button{
-        font-size: smaller;
-        width: 50px;
-        padding-right: 20px;
+        font-size: 77%;
+        width: 70px;
+
     }
 }
