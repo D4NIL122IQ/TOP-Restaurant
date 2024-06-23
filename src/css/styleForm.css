@@ -25,7 +25,6 @@ form{
     flex-direction: column;
     border-radius: 20px 30px 5px 10px;
     margin: 0px auto;
-
 }
 
 form>input{
@@ -57,4 +56,13 @@ form>input[type="submit"] {
 form>input[type="submit"]:hover {
     background-color: #6c3c0e;
     color: white;
+}
+
+@media screen and (max-width:600px) {
+
+    form{
+        width: 350px;
+        height: 480px;
+    }
+    
 }

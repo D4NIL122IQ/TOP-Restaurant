@@ -19,10 +19,17 @@
 }
 
 .ecriture> h1{
-    color: brown;
+    color: #BC002D;
 }
 
 .ecriture > h4{
     color: #FAEAEA;
     text-decoration:underline;
+}
+
+@media screen and (max-width:600px) {
+    .ecriture{
+        width: 95vw;
+        overflow-y: auto ;
+    }
 }

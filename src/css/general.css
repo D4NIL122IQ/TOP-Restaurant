@@ -54,7 +54,8 @@ header>nav>button{
 }
 
 header>nav>button:hover{
-    text-decoration: underline;
+    text-decoration: underline black;
+    color: #BC002D;
 }
 footer{
     height: 5.4vh;
